@@ -1,0 +1,14 @@
+{
+  "name": "flappy-bird-ts",
+  "version": "1.0.0",
+  "description": "A simple Flappy Bird clone using TypeScript",
+  "scripts": {
+    "build": "parcel build index.html --dist-dir dist",
+    "start": "parcel serve index.html --port 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
